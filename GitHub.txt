@@ -1,0 +1,25 @@
+
+sodskat
+Dioc1ama
+
+https://github.com/sodskat/HB-P
+
+$ cd
+$ cd /c
+$ ls
+$ cd git
+$ ls
+$ cd HB-P
+$ ls
+
+to upload 
+$ git status
+$ git add 'file name'
+$ git commit -m "(first commit)" 'file name'
+$ git push -u origin master
+
+
+
+
+
+
